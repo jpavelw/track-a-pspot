@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.availablebg {
+    background-color: #c2f0c2;
+}
+.occupiedbg {
+    background-color: #ffb3b3;
+}
+.card {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

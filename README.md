@@ -16,10 +16,6 @@ You will need to install [npm](https://www.npmjs.com) and [nodejs](https://nodej
 
 For the web app, reference to the [ionic framework](http://ionicframework.com) to install all the dependencies
 
-## API Reference
-
-NodeJS
-Ionic Framework
 
 ## License
 

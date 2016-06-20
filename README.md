@@ -12,10 +12,9 @@ The project was created to help faculty, students, and visitors to receive curre
 
 ## Installation
 
-You will need to install [npm](https://www.npmjs.com) and [nodejs](https://nodejs.org/en/) for both projects. For the taps_server, install all the dependencies first using `npm install`. Make sure you are inside the taps-server directory
+You will need to install [nodejs](https://nodejs.org/en/) for both projects. For the taps_server, install all the dependencies first using `npm install`. Make sure you are inside the taps-server directory
 
 For the web app, reference to the [ionic framework](http://ionicframework.com) to install all the dependencies
-
 
 ## License
 
